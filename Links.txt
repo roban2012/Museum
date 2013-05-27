@@ -5,15 +5,20 @@ PG 2.0.0-2.7.0
 修改版权story00.
 新版
 
-<a href= "link01.html">德雷克海盗时代</a><br><br>
-<a href= "link02.html">麦哲伦环球航海</a><br><br>
-<a href= "link03.html">The China Conundrum（中国学生难题）</a><br><br>
 
-<a href= "pic01.html">环球航线</a><br><br>
-<a href= "pic02.html">麦加（Mecca）大清真寺</a><br><br>
-<a href= "pic03.html">基督教堂</a><br><br><br><br>
-<a href= "pic04.html">古尔邦节（宰牲节）</a><br><br>
-<a href= "pic05.html">One Piece Map</a><br><br>
-<a href= "pic06.html">One Piece 航海</a><br><br>
-<a href= "pic07.html">Pirates（海盗）</a><br><br>
-<a href= "pic08.html">徒步旅行背包（Backpacking）</a><br><br>
+
+<a href="link01.html">错误翻译</a>
+
+<a href="links.html">博物馆动态信息一览</a><br><br>
+<a href="link02.html">Might is right（强权即公理）</a><br><br>
+
+<a href="pic01.html">国立故宫博物院导游图</a>
+<a href="pic02.html">正体中文、英语、日语、韩语、法语、德语、西班牙语、俄语和阿拉伯语</a>
+<a href="pic03.html">德语有两种弹舌音（颤音），derrrrrr和aherrrrr</a>
+<a href="pic04.html">博物馆开发时间、费用及交通</a>。<br><br>
+<a href="pic05.html">故宫博物院导游图</a>
+
+
+
+
+
